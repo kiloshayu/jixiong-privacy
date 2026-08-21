@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-label="假装和你说">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3159f5"/>
+      <stop offset="0.55" stop-color="#7657f6"/>
+      <stop offset="1" stop-color="#ff466b"/>
+    </linearGradient>
+  </defs>
+  <rect width="1024" height="1024" rx="230" fill="url(#bg)"/>
+  <path d="M216 266h592a96 96 0 0 1 96 96v284a96 96 0 0 1-96 96H492L304 858v-116h-88a96 96 0 0 1-96-96V362a96 96 0 0 1 96-96Z" fill="#fff"/>
+  <circle cx="360" cy="510" r="42" fill="#3159f5"/>
+  <circle cx="512" cy="510" r="42" fill="#7657f6"/>
+  <circle cx="664" cy="510" r="42" fill="#ff466b"/>
+</svg>
